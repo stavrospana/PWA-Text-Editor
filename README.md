@@ -8,7 +8,7 @@ This repository serves as a demonstration of advanced data-persistence technique
 
 Explore the functionality of the JATE text editor by accessing the following link:
 
-[Link to JATE Text Editor](insert_link_here)
+[Link to JATE Text Editor](https://pwa-text-editor-2um0.onrender.com)
 
 Upon launching the application, a basic text editor interface will be presented. Any text entered in this editor is automatically saved in the cache, ensuring data persistence even when the page is closed. Additionally, users have the option to install the application as a PWA by clicking the 'Install' button in the top left corner and subsequently accepting the installation prompt in the top right corner. Please be aware that not all browsers support this PWA installation functionality.
 
